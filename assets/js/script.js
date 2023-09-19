@@ -25,7 +25,6 @@ function getWeather(lat,lon) {
        
     })
     }
-    getLocation('Texas, US')
+   
     getLocation('New York, US')
-    getLocation('Florida, US')
-    getLocation('Oklahoma, US')
+   
