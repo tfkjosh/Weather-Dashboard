@@ -38,7 +38,7 @@ THEN I am again presented with current and future conditions for that city
 ## Usage
 
 
-Navigate to [Weather Dashoard]() and view the web page.
+Navigate to [Weather Dashoard](https://tfkjosh.github.io/weather-dashboard/) and view the web page.
 
 ## Credits
 
